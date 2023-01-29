@@ -1,0 +1,16 @@
+C:\Users\Oluwafemi\Documents\April23NewProject\bin\Debug\net5.0\April23NewProject.exe
+C:\Users\Oluwafemi\Documents\April23NewProject\bin\Debug\net5.0\April23NewProject.deps.json
+C:\Users\Oluwafemi\Documents\April23NewProject\bin\Debug\net5.0\April23NewProject.runtimeconfig.json
+C:\Users\Oluwafemi\Documents\April23NewProject\bin\Debug\net5.0\April23NewProject.runtimeconfig.dev.json
+C:\Users\Oluwafemi\Documents\April23NewProject\bin\Debug\net5.0\April23NewProject.dll
+C:\Users\Oluwafemi\Documents\April23NewProject\bin\Debug\net5.0\ref\April23NewProject.dll
+C:\Users\Oluwafemi\Documents\April23NewProject\bin\Debug\net5.0\April23NewProject.pdb
+C:\Users\Oluwafemi\Documents\April23NewProject\obj\Debug\net5.0\April23NewProject.csproj.AssemblyReference.cache
+C:\Users\Oluwafemi\Documents\April23NewProject\obj\Debug\net5.0\April23NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oluwafemi\Documents\April23NewProject\obj\Debug\net5.0\April23NewProject.AssemblyInfoInputs.cache
+C:\Users\Oluwafemi\Documents\April23NewProject\obj\Debug\net5.0\April23NewProject.AssemblyInfo.cs
+C:\Users\Oluwafemi\Documents\April23NewProject\obj\Debug\net5.0\April23NewProject.csproj.CoreCompileInputs.cache
+C:\Users\Oluwafemi\Documents\April23NewProject\obj\Debug\net5.0\April23NewProject.dll
+C:\Users\Oluwafemi\Documents\April23NewProject\obj\Debug\net5.0\ref\April23NewProject.dll
+C:\Users\Oluwafemi\Documents\April23NewProject\obj\Debug\net5.0\April23NewProject.pdb
+C:\Users\Oluwafemi\Documents\April23NewProject\obj\Debug\net5.0\April23NewProject.genruntimeconfig.cache
